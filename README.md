@@ -12,6 +12,7 @@ This is my live website
 
 **Here's how to download**
 ## You can either *Clone* the repo or *download* as zip 
-1. Clone: git clone https://github.com/voltrex-dev/My-To-Do-List.git
+1. Clone: ```git clone https://github.com/voltrex-dev/My-To-Do-List.git```
 2. Download
+
 ![Download_Example](DownloadExampleImage.png)
